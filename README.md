@@ -1,9 +1,10 @@
 # Uplift Modeling for Treatment Non-Responders through Multifaceted Intervention for Cost-Optimization
+This framework explains three most critical concerns of marketing campaign design.
 
-## Converting Treatment Non-responders
+## i) Converting Treatment Non-responders
 
-## Minimizing Conversion Time
+## ii) Minimizing Conversion Time
 
-## Maximizing Per Capita Campaign Expenditure
+## iii) Maximizing Per Capita Campaign Expenditure
 
 Data, code, and description will be available soon. 
