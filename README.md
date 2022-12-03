@@ -1,9 +1,9 @@
 # Uplift Modeling for Treatment Non-Responders through Multifaceted Intervention for Cost-Optimization
-This framework explains three most critical concerns of marketing campaign design.
+This framework explains four most critical concerns of marketing campaign design.
 
-## i) Converting Treatment Non-responders
+## i) Predicting Consumer Behaviors and Converting Treatment Non-responders
 
-## ii) Minimizing Conversion Time
+## ii) Minimizing Conversion Time Gap
 
 ## iii) Maximizing Per Capita Campaign Expenditure
 
