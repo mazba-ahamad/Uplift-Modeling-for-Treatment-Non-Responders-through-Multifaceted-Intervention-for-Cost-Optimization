@@ -5,6 +5,6 @@ This framework explains four most critical concerns of marketing campaign design
 
 ## ii) Minimizing Conversion Time Gap
 
-## iii) Maximizing Per Capita Campaign Expenditure
+## iii) Minimizing Per Capita Campaign Expenditure
 
 Data, code, and description will be available soon. 
