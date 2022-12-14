@@ -1,4 +1,10 @@
+#Stata Do-file
 #create synthetic data
+
+cap log close
+log using "Synthetic Data_Uplift", replace 
+
+version 17
 
 clear
 set obs 50000
@@ -30,3 +36,5 @@ gen cdays_3 = runiformint(1,12) if convert_3 == 1
 gen gain_pc_3 = 5-0.1-0.2-0.5 if convert_3 == 1
 
 export delimited using "C:\...\uplift.csv", replace
+
+log close
